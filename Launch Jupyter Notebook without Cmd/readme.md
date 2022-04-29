@@ -1,3 +1,5 @@
+# Launch Jupyter Notebook without Cmd
+
 copy and paste the bat file to your directory where you want <br>
 your jupyter notebook to be launched in. <br>
 
